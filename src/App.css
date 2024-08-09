@@ -1,0 +1,26 @@
+.heading{
+    color: #4ECCA3;
+    display: flex;
+    justify-content: center;
+    font-family: 'lobster',cursive;
+    font-size: 75px;
+    letter-spacing: 1px;
+}
+.dices{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 170px;
+}
+.roll_button{
+    font-size: x-large;
+    padding: 12px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #4ECCA3;
+    background-color: #393E46;
+    margin-top: 50px;
+    margin-left: 47%;
+    box-shadow: 0 0 31px 14px rgba(0, 0, 0, 0.3);
+
+}
